@@ -1,0 +1,9 @@
+header{height: 10vh;background-color: pink;}
+h1{font-size: 50px;color: rgb(255, 255, 255);text-align: center;}
+main{min-height: 80vh;background-color: rgb(252, 235, 202);padding: 30px;}
+div{border: solid 3px pink;width: 30vw; margin: auto;margin-bottom: 20px;}
+img{width: 30vh;display: block;margin: auto;}
+h2, p{text-align: center;color: rgb(255, 255, 255);}
+span{font-size: 30px;color: rgb(253, 250, 251);}
+footer{height: 10vh;background-color: pink;}
+#a{border-radius: 140px;border: pink 4px solid;}
